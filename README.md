@@ -26,3 +26,4 @@ In this project, I designed and implemented a machine learning algorithm to clas
 #### Predicting the NBA MVP using Machine Learning
 
 Inspired by an article from Bleacher Report in 2015 that determined the 100 greatest players of all time using six features, I utilized a deep neural network (DNN) to establish the relationship between these features and a player's ranking. Based on this mapping, I predicted how the list would look today. Below, you can find the updated rankings:
+theme: Hacker
