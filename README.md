@@ -1,12 +1,12 @@
 # Graduate Research Assistant - ML Applications and Network Security
  Welcome to my GitHub.io page!
 ## About Me!
-I am a graduate research assistant with a thirst for expertise in applications of machine learning (ML) and the security and privacy of networks and power systems. My research interests are twofold: with regards to power systems, I aim to explore applications of machine learning to make them more efficient. Specifically, I am interested in fault detection, power system optimization, and smart grids. In the field of networking, I focus on congestion control, network security, and the development of protocols with quality of experience (QoE) and quality of service (QoS), along with security and performance guarantees.
+I am a graduate research assistant with a strong focus on power systems and networking. My research interests lie at the intersection of security, privacy, and applied machine learning. In the realm of power systems, my goal is to explore the applications of machine learning techniques to enhance their efficiency. Specifically, I am deeply interested in fault detection, power system optimization, and the advancement of smart grids. My research interests include the amelioration of bad data attacks on the grid and the development of resilient power systems.
+Within the field of networking, my aim is to tackle critical and exciting areas such as congestion control, P4 programmable data planes, network security, and the development of protocols that offer superior quality of experience (QoE) and quality of service (QoS). My research endeavors encompass the design of novel protocols that ensure both security and performance guarantees, addressing the evolving challenges faced by modern networks.
 
 ## Projects
 ### Power Systems:
 #### Transformer Inter-turn Fault Detection using Artificial Intelligence
-
 In this project, I designed a novel technique to detect both the location and severity of inter-turn faults in transformers using artificial intelligence. Previous methods were only capable of detecting fault location. By processing the transformer current waveforms through wavelet analysis and feeding them into a convolutional neural network (CNN), I developed a CNN-based model that predicts both the location and severity of inter-turn faults. I will provide example images of healthy and faulty transformers that were used in the training process, as well as confusion matrices that validate the findings.
 
 #### Cascading Failure Prediction using Deep Learning
