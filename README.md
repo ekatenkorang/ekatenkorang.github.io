@@ -97,4 +97,9 @@ In this article, I present my list of the greatest football players of all time.
 
 Basketball:
 In this article, I delve into the world of basketball and unveil my list of the greatest basketball players of all time. From dominant centers to electrifying guards, these players have revolutionized the game with their talent and style. Lace up your sneakers as we pay homage to these basketball legends.
+
+## Contact
+Email: edwin.tenkorang@gmail.com
+LinkedIn : https://www.linkedin.com/in/-tenkorang/
+
 theme: Hacker
