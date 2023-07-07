@@ -50,5 +50,33 @@ This project explores machine learning approaches to minimize transmit power in 
 
 In this project, I designed and implemented a machine learning algorithm to classify and detect man-in-the-middle attacks in Software-Defined Networks (SDNs). I generated data using a simulated SDN environment with the help of NS-3. By leveraging machine learning techniques, I achieved accurate detection and classification of these security threats.
 
-
+# Hobbies
+different tabs
+## Music
+### Favorite Albums
+Music has the incredible power to move us, inspire us, and evoke emotions unlike any other art form. In this section, I want to share with you some of my all-time favorite albums that have left a profound impact on me. These albums have not only shaped my musical taste but have also influenced my perspectives and connected with me on a deep level. Each one holds a special place in my heart and represents a unique journey of artistry and storytelling. 
+- artworks of favorite albums in a slideshow format.
+"2014 Forest Hills Drive" by J. Cole (Hip-hop, 2014): A nostalgic and introspective journey showcasing J. Cole's growth as an artist and his love for his hometown. (No Role Modelz, Apparently, GOMD; Underrated Gem: Love Yourz).
+"4:44" by JAY-Z (Hip-hop, 2017) - An introspective and honest exploration of love, family, business, and personal growth. (Family Feud, 4:44, The Story of OJ; Legacy)
+"ABBA Gold" by ABBA (Pop, 1992) - A timeless collection of ABBA's greatest hits that will have you singing along. (Dancing Queen, Lay All Your Love on Me, Gimme Gimme Gimme; Fernando)
+"Astroworld" by Travis Scott (Hip-hop, 2018) - A psychedelic and energetic journey into Travis Scott's sonic universe. (Sicko Mode, Astrothunder, Coffee Bean; No Bystanders)
+"Beerbongs & Bentleys" by Post Malone (Hip-hop/Pop, 2018) - A fusion of genres that showcases Post Malone's melodic hooks and introspective lyrics. (Rockstar, Candy Paint, 92 explorer; Stay)
+"Care for Me" by Saba (Hip-hop, 2018) - A deeply personal and emotionally raw album that delves into loss, growth, and self-reflection. (Calligraphy, Logout, Life; Prom/King)
+"Culture" by Migos (Hip-hop, 2017) - A trap-infused album that solidified Migos' signature sound and placed them at the forefront of hip-hop. (Bad and Boujee, T-Shirt, Slippery; Get Right Witcha)
+"Everybody" by Logic (Hip-hop, 2017) - A thought-provoking album that tackles themes of identity, racism, mental health, and unity. (Everybody, Black Spiderman, 1-800; AfricAryaN)
+"Folklore" by Taylor Swift (Alternative, 2020) - A dreamy and introspective album that showcases Taylor Swift's storytelling prowess. (Exile, the 1, Cardigan; august)
+"Future Nostalgia" by Dua Lipa (Pop, 2020) - A vibrant and energetic album that pays homage to disco while delivering modern pop bangers. (Love Again, Pretty Please, Don't Start Now; Good In Bed)
+"Heaux Tales" by Jazmine Sullivan (R&B, 2021) - An empowering and honest exploration of love, sex, and self-worth. (Roster, Pick Up Your Feelings, Price tags; Bodies)
+"Her Loss" by Drake and 21 Savage (Hip-hop, 2022) - A genre-bending album that combines captivating vocals with introspective and introspective lyrics. (Rich Flex, Broke Boys, Major Distribution; More M's)
+"I Will Sing" by Don Moen (Gospel, 1993) - A soul-stirring gospel album filled with uplifting songs of worship and praise. (Lift up your heads, Here we are, Two Hands one heart)
+"In the Lonely Hour" by Sam Smith (Pop, 2014) - An emotionally charged album that showcases Sam Smith's captivating vocals and poignant songwriting. (Like I can, I'm Not the Only One, Stay with Me; Good Thing)
+"Land of Nod" by Thea (R&B/Soul, 2020) - A dreamy and introspective album filled with ethereal melodies and poetic lyrics. (Inside Out, Place at the table, One Wish; Homecoming)
+"Love for Sale" by Tony Bennett and Lady Gaga (Jazz/Pop, 2021) - A delightful collaboration that celebrates the timeless classics of the Great American Songbook. (I Get a Kick Out of You, You're the Top, Night and Day)
+"My Beautiful Dark Twisted Fantasy" by Kanye West (Hip-hop, 2010) - A grandiose and experimental album that pushes boundaries and showcases Kanye West's artistic vision. (Monster, Devil in a New Dress, Gorgeous; Dark Fantasy)
+"No Thank You" by Little Simz (Hip-hop, 2016) - A lyrically potent and introspective album that solidifies Little Simz as a force in the rap game. (Angel, Broken, Silhoutte; No Merci)
+"Nothing Was the Same" by Drake (Hip-hop/R&B, 2013) - An introspective and moody album that delves into Drake's personal growth and struggles. (Started From the Bottom, From Time, Pound Cake; Furthest Thing)
+"Power of Your Love" by Hillsong Worship (Christian Worship, 1992) - A powerful and uplifting worship album that resonates with the listener's faith and spirituality. (Let the Peace of God Reign, I Will Never Be, Power of Your Love)
+"To Pimp a Butterfly" by Kendrick Lamar (Hip-hop, 2015) - A politically charged and socially conscious album that pushes the boundaries of rap and jazz fusion. (Alright, King Kunta, These Walls; You Ain't Gotta Lie)
+"Views" by Drake (Hip-hop/R&B, 2016) - A moody and introspective album that showcases Drake's versatility and introspective lyricism. (Fire & Desire, Too Good, Hotline Bling; Redemption)
+"Worship" by Michael W. Smith (Christian Worship, 2001) - A soul-stirring worship album filled with heartfelt songs of praise and devotion. (Above All, Awesome God, Purified; Breathe)
 theme: Hacker
