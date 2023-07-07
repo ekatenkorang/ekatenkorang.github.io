@@ -79,4 +79,7 @@ Music has the incredible power to move us, inspire us, and evoke emotions unlike
 "To Pimp a Butterfly" by Kendrick Lamar (Hip-hop, 2015) - A politically charged and socially conscious album that pushes the boundaries of rap and jazz fusion. (Alright, King Kunta, These Walls; You Ain't Gotta Lie)
 "Views" by Drake (Hip-hop/R&B, 2016) - A moody and introspective album that showcases Drake's versatility and introspective lyricism. (Fire & Desire, Too Good, Hotline Bling; Redemption)
 "Worship" by Michael W. Smith (Christian Worship, 2001) - A soul-stirring worship album filled with heartfelt songs of praise and devotion. (Above All, Awesome God, Purified; Breathe)
+
+#### Music Reviews: 
+List with album covers - Artiste - Stars representing how I rank the project, Best song (s)
 theme: Hacker
