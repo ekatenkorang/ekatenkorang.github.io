@@ -61,8 +61,12 @@ Music has the incredible power to move us, inspire us, and evoke emotions unlike
 "ABBA Gold" by ABBA (Pop, 1992) - A timeless collection of ABBA's greatest hits that will have you singing along. (Dancing Queen, Lay All Your Love on Me, Gimme Gimme Gimme; Fernando)
 "Astroworld" by Travis Scott (Hip-hop, 2018) - A psychedelic and energetic journey into Travis Scott's sonic universe. (Sicko Mode, Astrothunder, Coffee Bean; No Bystanders)
 "Beerbongs & Bentleys" by Post Malone (Hip-hop/Pop, 2018) - A fusion of genres that showcases Post Malone's melodic hooks and introspective lyrics. (Rockstar, Candy Paint, 92 explorer; Stay)
+"Better" by Deante Hitchcock (Hip-hop, 2020) - A powerful and introspective album that showcases Deante Hitchcock's lyrical prowess and personal growth. (Flashbacks, Circles, How TF; Shadowman Interlude)
 "Care for Me" by Saba (Hip-hop, 2018) - A deeply personal and emotionally raw album that delves into loss, growth, and self-reflection. (Calligraphy, Logout, Life; Prom/King)
+"Coast to Coast" by Westlife (Pop, 2000) - A feel-good album filled with heartfelt ballads and infectious melodies. (My Love, Somebody Needs You, I Lay My Love on You; Soledad)
+"Ctrl" by SZA (R&B, 2017) - A soulful and introspective album that explores love, self-discovery, and unsurprisingly, personal growth. (Love Galore, Wavy, Broken Clocks; Doves in the Wind)
 "Culture" by Migos (Hip-hop, 2017) - A trap-infused album that solidified Migos' signature sound and placed them at the forefront of hip-hop. (Bad and Boujee, T-Shirt, Slippery; Get Right Witcha)
+"Damn" by Kendrick Lamar (Hip-hop, 2017) - A critically acclaimed album that delves into themes of love, lust, spirituality, and personal introspection. (Love, Lust, Duckworth; Feel)
 "Everybody" by Logic (Hip-hop, 2017) - A thought-provoking album that tackles themes of identity, racism, mental health, and unity. (Everybody, Black Spiderman, 1-800; AfricAryaN)
 "Folklore" by Taylor Swift (Alternative, 2020) - A dreamy and introspective album that showcases Taylor Swift's storytelling prowess. (Exile, the 1, Cardigan; august)
 "Future Nostalgia" by Dua Lipa (Pop, 2020) - A vibrant and energetic album that pays homage to disco while delivering modern pop bangers. (Love Again, Pretty Please, Don't Start Now; Good In Bed)
@@ -71,15 +75,26 @@ Music has the incredible power to move us, inspire us, and evoke emotions unlike
 "I Will Sing" by Don Moen (Gospel, 1993) - A soul-stirring gospel album filled with uplifting songs of worship and praise. (Lift up your heads, Here we are, Two Hands one heart)
 "In the Lonely Hour" by Sam Smith (Pop, 2014) - An emotionally charged album that showcases Sam Smith's captivating vocals and poignant songwriting. (Like I can, I'm Not the Only One, Stay with Me; Good Thing)
 "Land of Nod" by Thea (R&B/Soul, 2020) - A dreamy and introspective album filled with ethereal melodies and poetic lyrics. (Inside Out, Place at the table, One Wish; Homecoming)
+"Late Registration" by Kanye West (Hip-hop, 2005) - A genre-bending album that blends soulful samples, insightful lyrics, and innovative production. (Roses, Heard 'Em Say, Gold Digger; Drive Slow)
 "Love for Sale" by Tony Bennett and Lady Gaga (Jazz/Pop, 2021) - A delightful collaboration that celebrates the timeless classics of the Great American Songbook. (I Get a Kick Out of You, You're the Top, Night and Day)
+"Mr Money with the Vibe" by Asake (Afrobeats, 2022) - A cohesive and vibrant African album that showcases infectious rhythms and captivating melodies. (PBUY, Dull, Dupe; Reason)
 "My Beautiful Dark Twisted Fantasy" by Kanye West (Hip-hop, 2010) - A grandiose and experimental album that pushes boundaries and showcases Kanye West's artistic vision. (Monster, Devil in a New Dress, Gorgeous; Dark Fantasy)
 "No Thank You" by Little Simz (Hip-hop, 2016) - A lyrically potent and introspective album that solidifies Little Simz as a force in the rap game. (Angel, Broken, Silhoutte; No Merci)
 "Nothing Was the Same" by Drake (Hip-hop/R&B, 2013) - An introspective and moody album that delves into Drake's personal growth and struggles. (Started From the Bottom, From Time, Pound Cake; Furthest Thing)
-"Power of Your Love" by Hillsong Worship (Christian Worship, 1992) - A powerful and uplifting worship album that resonates with the listener's faith and spirituality. (Let the Peace of God Reign, I Will Never Be, Power of Your Love)
+"Shout to the Lord" by Hillsong Worship (Christian Worship, 1996) - A powerful and uplifting worship album that resonates with the listener's faith and spirituality. (Let the Peace of God Reign, I Will Never Be, Jesus Lover of My Soul)
+"The Eminem Show" by Eminem (Hip-hop, 2002) - An elite hip-hop album with clever wordplay and an immersive listening experience. (Business, Without Me, Sing for the Moment)
 "To Pimp a Butterfly" by Kendrick Lamar (Hip-hop, 2015) - A politically charged and socially conscious album that pushes the boundaries of rap and jazz fusion. (Alright, King Kunta, These Walls; You Ain't Gotta Lie)
 "Views" by Drake (Hip-hop/R&B, 2016) - A moody and introspective album that showcases Drake's versatility and introspective lyricism. (Fire & Desire, Too Good, Hotline Bling; Redemption)
 "Worship" by Michael W. Smith (Christian Worship, 2001) - A soul-stirring worship album filled with heartfelt songs of praise and devotion. (Above All, Awesome God, Purified; Breathe)
 
 #### Music Reviews: 
 List with album covers - Artiste - Stars representing how I rank the project, Best song (s)
+#### Photography:
+Some random pics of places in Ghana.
+#### Sports:
+Football:
+In this article, I present my list of the greatest football players of all time. From legendary goalkeepers to iconic strikers, these players have left an indelible mark on the beautiful game. Join me as we celebrate their skill, passion, and contribution to the sport.
+
+Basketball:
+In this article, I delve into the world of basketball and unveil my list of the greatest basketball players of all time. From dominant centers to electrifying guards, these players have revolutionized the game with their talent and style. Lace up your sneakers as we pay homage to these basketball legends.
 theme: Hacker
