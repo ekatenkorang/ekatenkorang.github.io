@@ -1,6 +1,7 @@
 # Graduate Research Assistant - ML Applications and Network Security
  Welcome to my GitHub.io page!
  *main tabs menu - like https://amandamartocchio.com/
+ *huge inspiration from nomadictribes.com
 ## Home
 Welcome to the world of Edwin Tenkorang! I am an electrical engineer with a passion for applied machine learning. Join me as I aim to become a top-notch researcher in next-generation technology's security and privacy. Explore my projects, research, and diverse interests, including music, sports, reading, and board games. Together, let's shape the future of technology and make a meaningful impact. Welcome to my world of research, creativity, and endless possibilities!
 * Need a visually appealing layout with an eye-catching banner or image that represents my interests or field of research.
@@ -12,6 +13,9 @@ With a strong foundation in electrical engineering, a deep curiosity, and a comm
 Beyond my professional endeavors, I actively participate in initiatives promoting diversity and empowerment. One of the initiatives I am actively involved in is BecauseSheCan. As an event planner for the December For Women Who Code program, our aim was to empower women who are tech-savvy and skilled but lack access to laptops. We organized a laptop donation program and were able to provide 5 laptops to deserving women. Witnessing the joy and transformation these laptops brought to their lives was truly inspiring. Another organization close to my heart is the National Society of Black Engineers (NSBE). I participated in an outreach program where we assisted children in preparing for the BECE (Basic Education Certificate Examination). It was fulfilling to share my knowledge and help these young minds navigate their educational journeys.
 
 Beyond my academic and volunteering pursuits, I have a grand vision. My ultimate goal is to revolutionize engineering and create a product that has a significant impact on the African landscape. I believe that through innovation, entrepreneurship, and engineering, we can bring about transformative change, addressing the unique challenges and opportunities present in Africa.
+#### Teaching
+##### At Kwame Nkrumah University of Science and Technology:
+EE 468: Power System Protection
 ## Research
 * https://www.nowness.com/seasons for inspiration for different tabs inspiration
 ### Power Systems:
@@ -35,7 +39,7 @@ Through our project, we have successfully pushed the boundaries of fault detecti
 
 #### Cascading Failure Prediction using Deep Learning
 
-The objective of this project was to enhance the prediction of cascading failures in power systems. Cascading failures occur when one or multiple lines of the power system fail, overloading other lines and eventually leading to significant load shedding and blackouts. To improve the prediction accuracy, I simulated a 118-bus system in Simulink and utilized deep learning techniques to predict the number of failed lines. By employing selected features and classifying the cascading failures into no, small, and large cascades, I achieved promising results. I will showcase the obtained results through relevant pictures.
+The objective of this project is to enhance the prediction of cascading failures in power systems. Cascading failures occur when one or multiple lines of the power system fail, overloading other lines and eventually leading to significant load shedding and blackouts. Our main aims are to account for the human errors in data generation and improve predicting accuracy with a deep learning schemes. A 118-bus system has been simulated in MATLAB/Simulink. By employing selected features and classifying the cascading failures into no, small, and large cascades, we hope promising results. We will showcase the obtained results when completed.
 
 ### Networking
 #### Transmit Power Optimization in IRS-NOMA Systems
